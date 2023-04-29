@@ -538,119 +538,293 @@
         "sprang",
         "sprung"
     ],
-    ["to stand","stood","stood"
+    [
+        "to stand",
+        "stood",
+        "stood"
     ],
-    ["to steal","stole","stolen"
+    [
+        "to steal",
+        "stole",
+        "stolen"
     ],
-    ["to stick","stuck","stuck"
+    [
+        "to stick",
+        "stuck",
+        "stuck"
     ],
-    ["to sting","stung","stung"
+    [
+        "to sting",
+        "stung",
+        "stung"
     ],
-    ["to stink","stank","stunk"
+    [
+        "to stink",
+        "stank",
+        "stunk"
     ],
-    ["to stride","strode","stridden"
+    [
+        "to stride",
+        "strode",
+        "stridden"
     ],
-    ["to string","strung","strung"
+    [
+        "to string",
+        "strung",
+        "strung"
     ],
-    ["to strive","strove","striven"
+    [
+        "to strive",
+        "strove",
+        "striven"
     ],
-    ["to swear","swore","sworn"
+    [
+        "to swear",
+        "swore",
+        "sworn"
     ],
-    ["to sweep","swept","swept"
+    [
+        "to sweep",
+        "swept",
+        "swept"
     ],
-    ["to swim","swam","swum"
+    [
+        "to swim",
+        "swam",
+        "swum"
     ],
-    ["to swing","swung","swung"
+    [
+        "to swing",
+        "swung",
+        "swung"
     ],
-    ["to take","took","taken"
+    [
+        "to take",
+        "took",
+        "taken"
     ],
-    ["to teach","taught","taught"
+    [
+        "to teach",
+        "taught",
+        "taught"
     ],
-    ["to tear","tore","torn"
+    [
+        "to tear",
+        "tore",
+        "torn"
     ],
-    ["to tell","told","told"
+    [
+        "to tell",
+        "told",
+        "told"
     ],
-    ["to think","thought","thought"
+    [
+        "to think",
+        "thought",
+        "thought"
     ],
-    ["to throw","threw","thrown"
+    [
+        "to throw",
+        "threw",
+        "thrown"
     ],
-    ["to thrust","thrust","thrust"
+    [
+        "to thrust",
+        "thrust",
+        "thrust"
     ],
-    ["to tread","trod","trodden"
+    [
+        "to tread",
+        "trod",
+        "trodden"
     ],
-    ["to undergo","underwent","undergone"
+    [
+        "to undergo",
+        "underwent",
+        "undergone"
     ],
-    ["to understand","understood","understood"
+    [
+        "to understand",
+        "understood",
+        "understood"
     ],
-    ["to undertake","undertook","undertaken"
+    [
+        "to undertake",
+        "undertook",
+        "undertaken"
     ],
-    ["to upset","upset","upset"
+    [
+        "to upset",
+        "upset",
+        "upset"
     ],
-    ["to wear","wore","worn"
+    [
+        "to wear",
+        "wore",
+        "worn"
     ],
-    ["to weave","wove","woven"
+    [
+        "to weave",
+        "wove",
+        "woven"
     ],
-    ["to weep","wept","wept"
+    [
+        "to weep",
+        "wept",
+        "wept"
     ],
-    ["to win","won","won"
+    [
+        "to win",
+        "won",
+        "won"
     ],
-    ["to withdraw","withdrew","withdrawn"
+    [
+        "to withdraw",
+        "withdrew",
+        "withdrawn"
     ],
-    ["to wring","wrung","wrung"
+    [
+        "to wring",
+        "wrung",
+        "wrung"
     ],
-    ["to write","wrote","written"
+    [
+        "to write",
+        "wrote",
+        "written"
     ],
-    ["to undertake","undertook","undertaken"
+    [
+        "to undertake",
+        "undertook",
+        "undertaken"
     ],
-    ["to upset","upset","upset"
+    [
+        "to upset",
+        "upset",
+        "upset"
     ],
-    ["to wear","wore","worn"
+    [
+        "to wear",
+        "wore",
+        "worn"
     ],
-    ["to weave","wove","woven"
+    [
+        "to weave",
+        "wove",
+        "woven"
     ],
-    ["to weep","wept","wept"
+    [
+        "to weep",
+        "wept",
+        "wept"
     ],
-    ["to win","won","won"
+    [
+        "to win",
+        "won",
+        "won"
     ],
-    ["to withdraw","withdrew","withdrawn"
+    [
+        "to withdraw",
+        "withdrew",
+        "withdrawn"
     ],
-    ["to wring","wrung","wrung"
+    [
+        "to wring",
+        "wrung",
+        "wrung"
     ],
-    ["to write","wrote","written"
+    [
+        "to write",
+        "wrote",
+        "written"
     ],
-    ["to undertake","undertook","undertaken"
+    [
+        "to undertake",
+        "undertook",
+        "undertaken"
     ],
-    ["to upset","upset","upset"
+    [
+        "to upset",
+        "upset",
+        "upset"
     ],
-    ["to wear","wore","worn"
+    [
+        "to wear",
+        "wore",
+        "worn"
     ],
-    ["to weave","wove","woven"
+    [
+        "to weave",
+        "wove",
+        "woven"
     ],
-    ["to weep","wept","wept"
+    [
+        "to weep",
+        "wept",
+        "wept"
     ],
-    ["to win","won","won"
+    [
+        "to win",
+        "won",
+        "won"
     ],
-    ["to withdraw","withdrew","withdrawn"
+    [
+        "to withdraw",
+        "withdrew",
+        "withdrawn"
     ],
-    ["to wring","wrung","wrung"
+    [
+        "to wring",
+        "wrung",
+        "wrung"
     ],
-    ["to write","wrote","written"
+    [
+        "to write",
+        "wrote",
+        "written"
     ],
-    ["to undertake","undertook","undertaken"
+    [
+        "to undertake",
+        "undertook",
+        "undertaken"
     ],
-    ["to upset","upset","upset"
+    [
+        "to upset",
+        "upset",
+        "upset"
     ],
-    ["to wear","wore","worn"
+    [
+        "to wear",
+        "wore",
+        "worn"
     ],
-    ["to weave","wove","woven"
+    [
+        "to weave",
+        "wove",
+        "woven"
     ],
-    ["to weep","wept","wept"
+    [
+        "to weep",
+        "wept",
+        "wept"
     ],
-    ["to win","won","won"
+    [
+        "to win",
+        "won",
+        "won"
     ],
-    ["to withdraw","withdrew","withdrawn"
+    [
+        "to withdraw",
+        "withdrew",
+        "withdrawn"
     ],
-    ["to wring","wrung","wrung"
+    [
+        "to wring",
+        "wrung",
+        "wrung"
     ],
-    ["to write","wrote","written"
+    [
+        "to write",
+        "wrote",
+        "written"
     ]
