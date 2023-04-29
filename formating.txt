@@ -1,209 +1,445 @@
-"to arise",
-"arose",
-"arisen"
-
-"to awake",
-"awoke",
-"awoken"
-
-"to bear",
-"bore",
-"borne"
-
-"to beat",
-"beat",
-"beaten"
-
-"to become",
-"became",
-"become"
-
-"to begin",
-"began",
-"begun"
-
-"to bend",
-"bent",
-"bent"
-
-"to bind",
-"bound",
-"bound"
-
-"to bite",
-"bit",
-"bitten"
-
-"to bleed",
-"bled",
-"bled"
-
-"to blow",
-"blew",
-"blown"
-
-"to break",
-"broke",
-"broken"
-
-"to breed",
-"bred",
-"bred"
-
-"to bring",
-"brought",
-"brought"
-
-
-"to broadcast","broadcast","broadcast"
-
-"to build","built","built"
-
-"to burst","burst","burst"
-
-"to buy","bought","bought"
-
-"to cast","cast","cast"
-
-"to catch","caught","caught"
-
-"to choose","chose","chosen"
-
-"to cling","clung","clung"
-
-"to come","came","come"
-
-"to cost","cost","cost"
-
-"to creep","crept","crept"
-
-"to cut","cut","cut"
-
-"to deal","dealt","dealt"
-
-"to dig","dug","dug"
-
-"to do","did","done"
-
-"to draw","drew","drawn"
-
-"to drink","drank","drunk"
-
-"to drive","drove","driven"
-
-"to eat","ate","eaten"
-
-"to fall","fell","fallen"
-
-"to feed","fed","fed"
-
-"to feel","felt","felt"
-
-"to fight","fought","fought"
-
-"to find","found","found"
-
-"to flee","fled","fled"
-
-"to fling","flung","flung"
-
-"to fly","flew","flown"
-
-"to forbid","forbade","forbidden"
-
-"to forecast","forecast","forecast"
-
-"to forget","forgot","forgotten"
-
-"to forgive","forgave","forgiven"
-
-"to freeze","froze","frozen"
-
-"to give","gave","given"
-
-"to go","went","gone"
-
-"to grind","ground","ground"
-
-"to grow","grew","grown"
-
-"to hang","hung","hung"
-
-"to hang","hanged","hanged"
-
-"to hear","heard","heard"
-
-"to hit","hit","hit"
-
-"to hold","held","held"
-
-"to hurt","hurt","hurt"
-
-"to keep","kept","kept"
-
-"to know","knew","known"
-
-"to lay","laid","laid"
-
-"to lead","led","led"
-
-"to leave","left","left"
-
-"to lend","lent","lent"
-
-"to let","let","let"
-
-"to lie","lay","lain"
-
-"to lose","lost","lost"
-
-"to make","made","made"
-
-"to mean","meant","meant"
-
-"to meet","met","met"
-
-"to mislead","misled","misled"
-
-"to mistake","mistook","mistaken"
-
-"to overcome","overcame","overcome"
-
-"to overhang","overhung","overhung"
-
-"to pay","paid","paid"
-
-"to put","put","put"
-
-"to read","read","read"
-
-"to rend","rent","rent"
-
-"to ride","rode","ridden"
-
-"to ring","rang","rung"
-
-"to rise","rose","risen"
-
-"to run","ran","run"
-
-"to say","said","said"
-
-"to see","saw","seen"
-
-"to seek","sought","sought"
-
-"to sell","sold","sold"
-
-"to send","sent","sent"
-
-"to set","set","set"
-
-"to shake","shook","shaken"
-
-"to shed","shed","shed"
-
-"to shine","shone","shone"
+[
+    [
+        "to arise",
+        "arose",
+        "arisen"
+    ],
+    [
+        "to awake",
+        "awoke",
+        "awoken"
+    ],
+    [
+        "to bear",
+        "bore",
+        "borne"
+    ],
+    [
+        "to beat",
+        "beat",
+        "beaten"
+    ],
+    [
+        "to become",
+        "became",
+        "become"
+    ],
+    [
+        "to begin",
+        "began",
+        "begun"
+    ],
+    [
+        "to bend",
+        "bent",
+        "bent"
+    ],
+    [
+        "to bind",
+        "bound",
+        "bound"
+    ],
+    [
+        "to bite",
+        "bit",
+        "bitten"
+    ],
+    [
+        "to bleed",
+        "bled",
+        "bled"
+    ],
+    [
+        "to blow",
+        "blew",
+        "blown"
+    ],
+    [
+        "to break",
+        "broke",
+        "broken"
+    ],
+    [
+        "to breed",
+        "bred",
+        "bred"
+    ],
+    [
+        "to bring",
+        "brought",
+        "brought"
+    ],
+    [
+        "to broadcast",
+        "broadcast",
+        "broadcast"
+    ],
+    [
+        "to build",
+        "built",
+        "built"
+    ],
+    [
+        "to burst",
+        "burst",
+        "burst"
+    ],
+    [
+        "to buy",
+        "bought",
+        "bought"
+    ],
+    [
+        "to cast",
+        "cast",
+        "cast"
+    ],
+    [
+        "to catch",
+        "caught",
+        "caught"
+    ],
+    [
+        "to choose",
+        "chose",
+        "chosen"
+    ],
+    [
+        "to cling",
+        "clung",
+        "clung"
+    ],
+    [
+        "to come",
+        "came",
+        "come"
+    ],
+    [
+        "to cost",
+        "cost",
+        "cost"
+    ],
+    [
+        "to creep",
+        "crept",
+        "crept"
+    ],
+    [
+        "to cut",
+        "cut",
+        "cut"
+    ],
+    [
+        "to deal",
+        "dealt",
+        "dealt"
+    ],
+    [
+        "to dig",
+        "dug",
+        "dug"
+    ],
+    [
+        "to do",
+        "did",
+        "done"
+    ],
+    [
+        "to draw",
+        "drew",
+        "drawn"
+    ],
+    [
+        "to drink",
+        "drank",
+        "drunk"
+    ],
+    [
+        "to drive",
+        "drove",
+        "driven"
+    ],
+    [
+        "to eat",
+        "ate",
+        "eaten"
+    ],
+    [
+        "to fall",
+        "fell",
+        "fallen"
+    ],
+    [
+        "to feed",
+        "fed",
+        "fed"
+    ],
+    [
+        "to feel",
+        "felt",
+        "felt"
+    ],
+    [
+        "to fight",
+        "fought",
+        "fought"
+    ],
+    [
+        "to find",
+        "found",
+        "found"
+    ],
+    [
+        "to flee",
+        "fled",
+        "fled"
+    ],
+    [
+        "to fling",
+        "flung",
+        "flung"
+    ],
+    [
+        "to fly",
+        "flew",
+        "flown"
+    ],
+    [
+        "to forbid",
+        "forbade",
+        "forbidden"
+    ],
+    [
+        "to forecast",
+        "forecast",
+        "forecast"
+    ],
+    [
+        "to forget",
+        "forgot",
+        "forgotten"
+    ],
+    [
+        "to forgive",
+        "forgave",
+        "forgiven"
+    ],
+    [
+        "to freeze",
+        "froze",
+        "frozen"
+    ],
+    [
+        "to give",
+        "gave",
+        "given"
+    ],
+    [
+        "to go",
+        "went",
+        "gone"
+    ],
+    [
+        "to grind",
+        "ground",
+        "ground"
+    ],
+    [
+        "to grow",
+        "grew",
+        "grown"
+    ],
+    [
+        "to hang",
+        "hung",
+        "hung"
+    ],
+    [
+        "to hang",
+        "hanged",
+        "hanged"
+    ],
+    [
+        "to hear",
+        "heard",
+        "heard"
+    ],
+    [
+        "to hit",
+        "hit",
+        "hit"
+    ],
+    [
+        "to hold",
+        "held",
+        "held"
+    ],
+    [
+        "to hurt",
+        "hurt",
+        "hurt"
+    ],
+    [
+        "to keep",
+        "kept",
+        "kept"
+    ],
+    [
+        "to know",
+        "knew",
+        "known"
+    ],
+    [
+        "to lay",
+        "laid",
+        "laid"
+    ],
+    [
+        "to lead",
+        "led",
+        "led"
+    ],
+    [
+        "to leave",
+        "left",
+        "left"
+    ],
+    [
+        "to lend",
+        "lent",
+        "lent"
+    ],
+    [
+        "to let",
+        "let",
+        "let"
+    ],
+    [
+        "to lie",
+        "lay",
+        "lain"
+    ],
+    [
+        "to lose",
+        "lost",
+        "lost"
+    ],
+    [
+        "to make",
+        "made",
+        "made"
+    ],
+    [
+        "to mean",
+        "meant",
+        "meant"
+    ],
+    [
+        "to meet",
+        "met",
+        "met"
+    ],
+    [
+        "to mislead",
+        "misled",
+        "misled"
+    ],
+    [
+        "to mistake",
+        "mistook",
+        "mistaken"
+    ],
+    [
+        "to overcome",
+        "overcame",
+        "overcome"
+    ],
+    [
+        "to overhang",
+        "overhung",
+        "overhung"
+    ],
+    [
+        "to pay",
+        "paid",
+        "paid"
+    ],
+    [
+        "to put",
+        "put",
+        "put"
+    ],
+    [
+        "to read",
+        "read",
+        "read"
+    ],
+    [
+        "to rend",
+        "rent",
+        "rent"
+    ],
+    [
+        "to ride",
+        "rode",
+        "ridden"
+    ],
+    [
+        "to ring",
+        "rang",
+        "rung"
+    ],
+    [
+        "to rise",
+        "rose",
+        "risen"
+    ],
+    [
+        "to run",
+        "ran",
+        "run"
+    ],
+    [
+        "to say",
+        "said",
+        "said"
+    ],
+    [
+        "to see",
+        "saw",
+        "seen"
+    ],
+    [
+        "to seek",
+        "sought",
+        "sought"
+    ],
+    [
+        "to sell",
+        "sold",
+        "sold"
+    ],
+    [
+        "to send",
+        "sent",
+        "sent"
+    ],
+    [
+        "to set",
+        "set",
+        "set"
+    ],
+    [
+        "to shake",
+        "shook",
+        "shaken"
+    ],
+    [
+        "to shed",
+        "shed",
+        "shed"
+    ],
+    ["to shine","shone","shone"
 
 "to shine","shined","shined"
 
@@ -347,26 +583,14 @@
 
 "to wear","wore","worn"
 
-"to weave",
-"wove",
-"woven"
+"to weave","wove","woven"
 
-"to weep",
-"wept",
-"wept"
+"to weep","wept","wept"
 
-"to win",
-"won",
-"won"
+"to win","won","won"
 
-"to withdraw",
-"withdrew",
-"withdrawn"
+"to withdraw","withdrew","withdrawn"
 
-"to wring",
-"wrung",
-"wrung"
+"to wring","wrung","wrung"
 
-"to write",
-"wrote",
-"written"
+"to write","wrote","written"
