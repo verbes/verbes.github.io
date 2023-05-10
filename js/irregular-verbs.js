@@ -118,7 +118,7 @@ function checkUserAnswer() {
     disableInputFields(true)
 
     if (questionCount < maxQuestions) {
-        setUIState('next')
+        setUIState('suivant')
     } else {
         gameOver()
     }
@@ -244,7 +244,7 @@ function gameOver() {
 
 function showGameOverMessage() {
     let p = document.createElement('p')
-    let msg = `Your score is ${score} out of a possible ${maxQuestions*2}. `
+    let msg = `Ton score est ${score} sur ${maxQuestions*2}. `
     msg += getScoreEvaluation(score)
     p.textContent = msg
     messageBox.appendChild(p) 
@@ -286,7 +286,7 @@ function getScoreEvaluation(score) {
     } else if (score > maxScore * 0.2) {
         return 'Proche du désastre'
     } else {
-        return 'C\'est vraiment nul ! Relie tes verbes .'
+        return 'C\'est vraiment nul ! Relie tes verbes !'
     }
 }
 
