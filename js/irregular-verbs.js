@@ -214,9 +214,9 @@ function showStepInfoText(button) {
 
 function getStepInfoHTML(correctAnswer, isUserCorrect) {
     if (isUserCorrect) {
-        return `<span>${correctAnswer}</span> — You got that right!`
+        return `<span>${correctAnswer}</span> — Ta bien compris!`
     } else {
-        return `Remember, it's — <span>${correctAnswer}</span>`
+        return `Rappelle toi c\'est — <span>${correctAnswer}</span>`
     }
 }
 
@@ -244,7 +244,7 @@ function gameOver() {
 
 function showGameOverMessage() {
     let p = document.createElement('p')
-    let msg = `Your score is ${score} out of a possible ${maxQuestions*2}. `
+    let msg = `Ton score est de ${score} sur ${maxQuestions*2}. `
     msg += getScoreEvaluation(score)
     p.textContent = msg
     messageBox.appendChild(p) 
