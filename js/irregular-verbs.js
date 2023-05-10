@@ -250,7 +250,7 @@ function showGameOverMessage() {
     messageBox.appendChild(p) 
 
     p = document.createElement('p')
-    p.textContent = 'Press Start to play again.'
+    p.textContent = 'Appuie sur Start pour rejouer.'
     messageBox.appendChild(p) 
 }
 
@@ -276,17 +276,17 @@ function resetInputForm() {
 function getScoreEvaluation(score) {
     let maxScore = maxQuestions * 2
     if (score == maxScore) {
-        return 'Perfect score! Well done indeed.'
+        return 'Le score parfait!'
     } else if (score > maxScore * 0.8) {
-        return 'That was pretty good!'
+        return 'C\'est bien!'
     } else if (score > maxScore * 0.6) {
-        return 'You can do better that this.'
+        return 'Tu peut faire mieux.'
     } else if (score > maxScore * 0.4) {
-        return 'Well, that was pretty bad.'
+        return 'C\'est pas terrible'
     } else if (score > maxScore * 0.2) {
-        return 'Rather awful.'
+        return 'Vraiment nul'
     } else {
-        return 'Quite the disaster, really.'
+        return 'C\'est un désastre, VRAIMENT.'
     }
 }
 
