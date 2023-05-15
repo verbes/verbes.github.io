@@ -53,7 +53,7 @@ input#button {
 #present2 {
     font-size: 1.4em;
     font-weight: bold;
-    color: rgb(84, 227, 32);
+    color: green;
     text-align: left;
 }
 #score {
