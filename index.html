@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<!--@VIC94150-->
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Verbes Irréguliers</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <meta name="robots" content="noindex, nofollow">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;400;700&display=swap" rel="stylesheet">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/irregular-verbs.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <!--   <link rel="icon" type="image/png" href="images/favicon.png"> -->
+
+  <!-- PWA
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="white"/>
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+    <div class="row">
+      <h2>Verbes Irréguliers</h2>
+        <p>Entrez les verbes au préterit et au participe passée a partir des 10 verbes aléatoires (depuis les 170 de la liste).</p>
+    </div>
+    <hr/>
+    <div id="header" class="row">
+      <div id="present"></div>
+      <br/><br/>
+      <span id="present2"></span>
+      <hr/><br/>
+      <div id="score"></div>
+      
+    </div>
+    <div id="inputs" class="row">
+        <input type="text" id="preterit" autocorrect="off" autocapitalize="none" autocomplete="off">
+        <input type="text" id="participle" autocorrect="off" autocapitalize="none" autocomplete="off">
+        <input type="submit" value="check" id="button">
+    </div>
+    <div id="progress-bar">
+    </div>
+    <div id="step-info">
+    </div>
+    <div id="message" class="row">
+    </div>
+  </div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script type='text/javascript' src='js/irregular-verbs.js'></script>
+</body>
+</html>
